@@ -1,0 +1,10 @@
+Hello world
+This is no test
+Python programming
+Mykhailo character
+Data processing
+Formula1
+Morty Rose
+Text Slime
+String functions
+End of examples
